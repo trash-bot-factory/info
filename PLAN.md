@@ -5,8 +5,8 @@ There is some ideas and planning for bots and languages used for it realization
 ## Bots
 
 | Name               | Basic idea                                                                       | Language | Resolution |
-| :---:              | :---:                                                                            | :---:    | :---:      |
-| ShakalizatorBot    | Creates 10/10 shakalized photo from regular photo                                | python   | - [ ]      |
+| :---:              | :---                                                                             | :---:    | :---       |
+| ShakalizatorBot    | Creates 10/10 shakalized photo from regular photo                                | python   | :heavy_check_mark:      |
 | GenderBot          | Returns the gender of the day                                                    |          | - [ ]      |
 | KlassBot           | Returns random picture from [stavklass](http://stavklass.ru)                     |          | - [ ]      |
 | HuificatorBot      | Huifies some messages                                                            |          | - [ ]      |
