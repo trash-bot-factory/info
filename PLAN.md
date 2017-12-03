@@ -6,7 +6,7 @@ There is some ideas and planning for bots and languages used for it realization
 
 | Name               | Basic idea                                                                       | Language | Resolution |
 | :---:              | :---                                                                             | :---:    | :---:      |
-| ShakalizatorBot    | Creates 10/10 shakalized photo from regular photo                                | python   | :x:        |
+| ShakalizatorBot    | Creates 10/10 shakalized photo from regular photo                                | python   |  :heavy_check_mark: |
 | GenderBot          | Returns the gender of the day                                                    |          | :x:        |
 | KlassBot           | Returns random picture from [stavklass](http://stavklass.ru)                     |          | :x:        |
 | HuificatorBot      | Huifies some messages                                                            |          | :x:        |
@@ -26,7 +26,7 @@ There is some ideas and planning for bots and languages used for it realization
 - [ ] JavaScript
 - [ ] TypeScript
 - [ ] Go
-- [ ] Python
+- [x] Python
 - [ ] Closure
 - [ ] C#
 - [ ] Ruby
