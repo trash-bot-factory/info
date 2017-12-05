@@ -15,6 +15,7 @@ There is some ideas and planning for bots and languages used for it realization
 | BullshitBingoBot   | Creates bingo by given words                                                     | CoffeeScript | :heavy_check_mark: |
 | YagubovichTimerBot | Starts minute timer or returns audio message with yagubovich's classical counter |              | :x:        |
 | ItWasBetterThenBot | Apply sepia filter to message and says, that it was better                       |              | :x:        |
+| FSBBot             | Read all messages, reacts to something like `навальный`, `путин` etc             |              | :x:        |
 
 
 ## Languages
