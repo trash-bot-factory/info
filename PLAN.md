@@ -11,8 +11,8 @@ There is some ideas and planning for bots and languages used for it realization
 | KlassBot           | Returns random picture from [stavklass](http://stavklass.ru)                     | Ruby         | :heavy_check_mark: |
 | HuificatorBot      | Huifies some messages                                                            |              | :x:        |
 | BackInMyDaysBot    | Replies with messages like `раньше было лучше`                                   |              | :x:        |
-| CommunisticBot     | Replaces phrases with `твой` to phrases with `наш`                               | CoffeeScript | :heavy_check_mark: |
-| BullshitBingoBot   | Creates bingo by given words                                                     |              | :x:        |
+| CommunisticBot     | Replaces phrases with `твой` to phrases with `наш`                               |              | :x:        |
+| BullshitBingoBot   | Creates bingo by given words                                                     | CoffeeScript | :heavy_check_mark: |
 | YagubovichTimerBot | Starts minute timer or returns audio message with yagubovich's classical counter |              | :x:        |
 | ItWasBetterThenBot | Apply sepia filter to message and says, that it was better                       |              | :x:        |
 
