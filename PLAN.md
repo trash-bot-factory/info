@@ -9,7 +9,7 @@ There is some ideas and planning for bots and languages used for it realization
 | ShakalizatorBot    | Creates 10/10 shakalized photo from regular photo                                | python       | :heavy_check_mark: |
 | GenderBot          | Returns the gender of the day                                                    | *reserved*   | :x:        |
 | KlassBot           | Returns random picture from [stavklass](http://stavklass.ru)                     | Ruby         | :heavy_check_mark: |
-| HuificatorBot      | Huifies some messages                                                            |              | :x:        |
+| HuificatorBot      | Huifies some messages                                                            | Dart         | :x:        |
 | BackInMyDaysBot    | Replies with messages like `раньше было лучше`                                   |              | :x:        |
 | CommunisticBot     | Replaces phrases with `твой` to phrases with `наш`                               |              | :x:        |
 | BullshitBingoBot   | Creates bingo by given words                                                     | CoffeeScript | :heavy_check_mark: |
@@ -51,5 +51,5 @@ There is some ideas and planning for bots and languages used for it realization
 - [ ] Bash
 - [ ] Elixir
 - [ ] PureScript
-- [ ] Dart
+- [x] Dart
 
