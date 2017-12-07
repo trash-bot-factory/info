@@ -16,6 +16,7 @@ There is some ideas and planning for bots and languages used for it realization
 | YagubovichTimerBot | Starts minute timer or returns audio message with yagubovich's classical counter |              | :x:        |
 | ItWasBetterThenBot | Apply sepia filter to message and says, that it was better                       |              | :x:        |
 | FSBBot             | Read all messages, reacts to something like `навальный`, `путин` etc             |              | :x:        |
+| ACIIfyerBot        | Converts images to ASCII art                                                     |              | :x: |
 
 
 ## Languages
